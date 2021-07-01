@@ -1,0 +1,6 @@
+p{
+    border: 3px solid black;
+    margin-top: 100px;
+   outline: medium solid red;
+    outline-offset: 20px;
+}

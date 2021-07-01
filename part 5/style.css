@@ -1,0 +1,15 @@
+.jewel{
+	border-width: 5px;
+	border-color: black;
+	border-style: inset;
+	margin-top: 100px;
+	padding: 30px;
+	border-top-width: 10px;
+	border-left-width: 20px;
+	border-right-width: 30px;
+	border-bottom-width: 40px;
+	border-top-color: red;
+	border-right-color: rgb(12, 6, 6);
+	border-left-color: rgb(231, 163, 163);
+	border-bottom-color: rgb(10, 184, 33);
+}

@@ -1,0 +1,11 @@
+h1{
+    font-family: vardana;
+    font-size: 6em;
+    font-style: italic;
+}
+p{
+    font-variant: small-caps;
+    font-size: 5em;
+    color: red;
+    text-decoration: overline;
+}
